@@ -1,14 +1,8 @@
 {
     "disableAutoUpdate": false,
-    "name": "skill-prediction",
-    "author": "Pinkie Pie / many others",
-    "description": "Simulates skills client-side, eliminating ping-based delays and animation lock.",
     "options": {
-        "niceName": "PSP",
-        "settingsVersion": 4,
-        "settingsFile": "./settings.json",
-        "settingsMigrator": "./migration.js"
+        "niceName": "SP"
     },
-    "servers": ["https://raw.githubusercontent.com/SaltyMonkey/skill-prediction/master/"],
-    "supportUrl": "https://github.com/tera-mods/skill-prediction/issues"
+    "servers": ["https://raw.githubusercontent.com/mornsta/skill-prediction/master/"],
+    "supportUrl": "https://github.com/mornsta/skill-prediction/issues"
 }
