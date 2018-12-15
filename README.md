@@ -40,4 +40,7 @@ Refer to docs in the module folder. If you can't make anything out of it, just g
 [![Donate](https://img.shields.io/badge/Donate-PayPal-ff69b4.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=5MTKARBK2CNG8&lc=US&item_name=Pinkie%27s%20TERA%20Mods&currency_code=USD) 
 Donation link for the origin repository developer.
 
-**P.S.** If you like this, please consider sliding into Salty's DMs and buying nextgen SP. It's exponentially better and frequently updated by people who know what they're doing. I'm only maintaining this for friends who can't afford to spend $30 or people still undecided on purchasing nextgen. You can consider this a free trial for as long as I can keep it up.
+**P.S.** If you like this, please consider sliding into Salty's DMs and buying nextgen SP.
+It's exponentially better and is frequently updated by people who know what they're doing.
+I'm only maintaining this for friends who can't afford to spend $30 or people still undecided on purchasing nextgen.
+You can consider this a free trial for as long as I can keep it up.

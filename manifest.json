@@ -1,7 +1,7 @@
 {
 	"files": {
 		"LICENSE": "53927bd0b739d38c87a0a82236fd9b070c2dfff11c0c119be50372005d5047ad",
-		"README.md": "c1e925663053cb47f65907417075c08c3ff5c1bec87ec50561c3e2e9938340d2",
+		"README.md": "de80dd03d8e779c1ac09da9395ccc86ca69a37f87431760a59ec26d3cad7b699",
 		"config/config.json": "a37041300000b9df9d83f4e7623d97602f15802fb7138193b901fe38ddeddac0",
 		"config/data/abnormalities.js": "e80306fbd193f0eb1d6aa55b81336b07c077ed1c6541dd82e5b4a217ff5b5ec5",
 		"config/data/blacklist.json": "75fcb4ae01bf3231a122c3aff352afe43708a71f1dd8b06565ae94e2f3e65163",
@@ -29,7 +29,7 @@
 		"lib/utils.js": "10b7f472bd612d44bbde59dc772ed8783980e1859662280e96fb18ba70c285d9",
 		"migration/steps.json": "be82f805755c7fff843b301b69507a31e9327af4b4be0f7c9a4c0f2c0a25f855",
 		"module.json": "c0120726551cf8ecc0873accf9abe56efd6ce2069de3c6135dc1adf5fd46ebd4",
-		"package.json": "77b5d087d2b0c2cc8c69b99c663b808daf2a43123a26a989c1b8b5623cec744d",
+		"package.json": "aa02ed3afdc47381ee0709640a53034c7ca0e3139e164ad9e6342d0a50c74b10",
 		"res/spLogo.png": "d6f8ea63c54d3e99cf12e029e538e2ed51eb76a1c7999f1cfa7e913db26d219b"
 	}
 }
