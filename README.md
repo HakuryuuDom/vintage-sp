@@ -11,7 +11,7 @@ No. What the module does is attempt to avoid the restraints caused by ping on sk
 
 **What about PvP, does it work with no affairs?** 
 
-Oh, of course. It works perfectly well for PvP if you type '/8 sp off' in chat. **The answer is and always will be no. Stop using SP for PvP purposes.**
+Oh, of course. It works perfectly well for PvP if you type `/8 sp off` in chat. **The answer is and always will be no. Stop using SP for PvP purposes.**
 
 **Notes:**
 
@@ -29,7 +29,7 @@ Oh, of course. It works perfectly well for PvP if you type '/8 sp off' in chat. 
 
 ## Usage
 
-Refer to docs in the module folder. If you can't make anything out of it, just go in-game, wait for a while, and do '/8 sp config generate' and follow it up with '/8 sp config save'.
+Refer to docs in the module folder. If you can't make anything out of it, just go in-game, wait for a while, do `/8 sp config generate` and follow it up with `/8 sp config save`.
 
 ## Other stuff
 
