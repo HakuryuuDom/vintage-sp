@@ -3,6 +3,6 @@
     "options": {
         "niceName": "SP"
     },
-    "servers": ["https://raw.githubusercontent.com/mornsta/skill-prediction/master/"],
+    "servers": ["https://raw.githubusercontent.com/SaltyMonkey/skill-prediction/master/"],
     "supportUrl": "https://github.com/mornsta/skill-prediction/issues"
 }

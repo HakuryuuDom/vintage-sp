@@ -1,35 +1,5 @@
 {
 	"files": {
-		"LICENSE": "53927bd0b739d38c87a0a82236fd9b070c2dfff11c0c119be50372005d5047ad",
-		"README.md": "af4030e1fae656aebda507418362b0bc8e05db5e8f353785f847df7af82bf12a",
-		"config/config.json": "a37041300000b9df9d83f4e7623d97602f15802fb7138193b901fe38ddeddac0",
-		"config/data/abnormalities.js": "e80306fbd193f0eb1d6aa55b81336b07c077ed1c6541dd82e5b4a217ff5b5ec5",
-		"config/data/blacklist.json": "75fcb4ae01bf3231a122c3aff352afe43708a71f1dd8b06565ae94e2f3e65163",
-		"config/data/cc.json": "fd18f0b51f4588eccbb1ea423d22aa18fa538cbf482d26e02802a1db744f64cf",
-		"config/data/default-config.json": "9763d5567b75bdfbbf8b882b4214d456846446f5abdac3409c1836a9fe1a8616",
-		"config/data/definitions.js": "740e84c3761aaf40607553463b8b687dab1c1037351f9eae24ff5eea01b2a52d",
-		"config/data/skills.js": "33ef3989c483235d7f71e3fbddd4ce91696030d5160e5813a0568e5b4fce847f",
-		"config/data/talents.json": "80f04315e1efbb3026170419fa02a3ae8726f521c98eaae007838e0b5491b03b",
-		"config/preset.js": "f2b62e40cee01a31dad53db372cd01091a776aa3df117b7baafd5fae942dfad6",
-		"docs/commands.pdf": "bf37f9199fabd756ff3271fc34e5cab2d052007832cbfe904d9334d0b071f5da",
-		"docs/config.pdf": "c9abc272cab10491a913f50c213a23fe97c726483b0e6261320f4a44b3357bae",
-		"docs/preset.pdf": "6301fceafc0e90d854fe09a7c064a0404c016ec67d9b78cc77872e54b5955c45",
-		"docs/source-md/commands.md": "36400aeaa15fcf0b826d3609ec419ab37013efda8e9ceaf3a9974c186ed6d53a",
-		"docs/source-md/config.md": "4387123f7dd0e015064df8feabc6e1a0bd9ae2fe0ea407790267cfcfa5446277",
-		"docs/source-md/preset.md": "4e3c7f0b34de5bbf3ded3ce7c18d8040f4f7e91bfbf53f4114ac266b235bf778",
-		"lib/abnormalities.js": "5b9bfc0cd0af3b7f0d099fc6234afccfeb02af060edcb246466ff79983cdcfe7",
-		"lib/autoconfig.js": "0669b27108addfae8cf96a02008552555ec6beb6e8404c8ff8f7a05f9ccaad7e",
-		"lib/commands.js": "936ce23cde1e8d42752ddaa25054c3a4224a5597dadb1fcda8150a5840ed2626",
-		"lib/core.js": "d225063c91e3659cf846b6ce5ac712632e6a73e42a4e697b950af6153b2961ab",
-		"lib/defs.js": "deebeeb68d7aaf5f3d4bc1c323038adee9d6dd1097fbfdcb4864e1fb39dc9494",
-		"lib/loader.js": "ad69744014cbbfab1be4c2dcfa21c5c2017c28e6b758414027eca8ce390a43b0",
-		"lib/ping.js": "b28d712d3a95890f507079b1b77bff3c40dc17c305ac8ac4dff5e770ec64188f",
-		"lib/state.js": "fe9d90052732d685f8a76e68242e4c354c12ef6bbdcefd131e47d0916dbc8393",
-		"lib/talents.js": "e583b203d9819d2d0dfeade7a3ec0630430dc732fb5de13d04f668e77adcc68a",
-		"lib/utils.js": "10b7f472bd612d44bbde59dc772ed8783980e1859662280e96fb18ba70c285d9",
-		"migration/steps.json": "be82f805755c7fff843b301b69507a31e9327af4b4be0f7c9a4c0f2c0a25f855",
-		"module.json": "c0120726551cf8ecc0873accf9abe56efd6ce2069de3c6135dc1adf5fd46ebd4",
-		"package.json": "aa02ed3afdc47381ee0709640a53034c7ca0e3139e164ad9e6342d0a50c74b10",
-		"res/spLogo.png": "d6f8ea63c54d3e99cf12e029e538e2ed51eb76a1c7999f1cfa7e913db26d219b"
+		"module.json": "e44efb20a1d4f3c19a54e3a0a17b2417858c4f9522152cbc3b210cd31c77a027"
 	}
 }
